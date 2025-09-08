@@ -28,7 +28,7 @@ Sistema de cadastro de conta bancária desenvolvido em **Java**, com foco em **e
 ---
 
 ## 📂 Estrutura do projeto
-````
+```
 cadastro_conta_bancaria/
 ├── src/
 │ ├── application/Program.java
@@ -36,7 +36,7 @@ cadastro_conta_bancaria/
 ├── .gitignore
 └── README.md
 
-````
+```
 ---
 
 ## 🚀 Como usar
@@ -49,27 +49,30 @@ git clone https://github.com/ThiagoCh12/cadastro-conta-bancaria.git
 javac src\entities\Holder.java src\application\Program.java
 
 java -cp src application.Program
-````
+```
 ## 📸 Demonstração
 
 Exemplo de uso no console:
-````
+```
 ================= BANKER =================
 Enter your name: Thiago
 Enter your number account: 1234
+
 Do you want to make an initial deposit?
 1 - YES | 2 - NO: 1
+
 Inform the value to deposit: 500
+
 ACCOUNT DETAILS:
 Number account: 1234
 Name holder: Thiago
 Account balance: 500.00
-````
-👤 Autor
+```
+##👤 Autor
 
 [Thiago no GitHub](https://github.com/ThiagoCh12)
 
-⚠️ Observações
+##⚠️ Observações
 
 Projeto desenvolvido como exercício de fixação de encapsulamento, métodos e controle de fluxo em Java.
 

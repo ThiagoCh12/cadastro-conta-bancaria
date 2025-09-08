@@ -36,9 +36,6 @@ cadastro_conta_bancaria/
 ├── .gitignore
 └── README.md
 
-yaml
-Copiar código
-
 ---
 
 ## 🚀 Como usar
@@ -49,13 +46,9 @@ Copiar código
 git clone https://github.com/ThiagoCh12/cadastro-conta-bancaria.git
 Compile os arquivos Java:
 
-bash
-Copiar código
 javac src\entities\Holder.java src\application\Program.java
 Execute o programa:
 
-bash
-Copiar código
 java -cp src application.Program
 Siga as instruções do menu interativo no console.
 

@@ -68,11 +68,11 @@ Number account: 1234
 Name holder: Thiago
 Account balance: 500.00
 ```
-##👤 Autor
+## 👤 Autor
 
-[Thiago no GitHub](https://github.com/ThiagoCh12)
+[Thiago](https://github.com/ThiagoCh12)
 
-##⚠️ Observações
+## ⚠️ Observações
 
 Projeto desenvolvido como exercício de fixação de encapsulamento, métodos e controle de fluxo em Java.
 

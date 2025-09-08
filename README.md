@@ -66,10 +66,10 @@ Number account: 1234
 Name holder: Batman
 Account balance: 500.00
 
-👤 Autor
-ThiagoCh12
+## 👤 Autor
 
-[GitHub](https://github.com/ThiagoCh12)
+- Thiago Deita  
+- [GitHub](https://github.com/ThiagoCh12)
 
 ⚠️ Observações
 Projeto desenvolvido como exercício de fixação de encapsulamento, métodos e controle de fluxo em Java.

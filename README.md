@@ -28,12 +28,15 @@ Sistema de cadastro de conta bancária desenvolvido em **Java**, com foco em **e
 ---
 
 ## 📂 Estrutura do projeto
+````
 cadastro_conta_bancaria/
 ├── src/
 │ ├── application/Program.java
 │ └── entities/Holder.java
 ├── .gitignore
 └── README.md
+
+````
 ---
 
 ## 🚀 Como usar
